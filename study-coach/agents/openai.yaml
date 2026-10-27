@@ -1,0 +1,4 @@
+interface:
+  display_name: "学习陪练"
+  short_description: "制定学习大纲与每日任务，批改完整错题，记录进度并按反馈调整计划"
+  default_prompt: "使用 $study-coach，根据我的目标和可用时间创建或继续学习项目，先读取已有记录，再带我完成当前一步。"
